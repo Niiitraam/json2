@@ -146,9 +146,9 @@
                                                 {
                                                     "name" : "Equipe Guillian",
                                                     "children": [
-                                                        {"name": "Guillian"},
-                                                        {"name": "Vanessa"},
-                                                        {"name": "Guinluca"}
+                                                        {"name": "Guillian", "value": 1},
+                                                        {"name": "Vanessa", "value": 1},
+                                                        {"name": "Guinluca", "value": 1}
                                                     ]
                                                 }
                                             ]
