@@ -1,0 +1,32 @@
+{
+    "name": "Les Equipes",
+    "children": [
+        {
+            "name" : "Equipe 1",
+            "children" : [
+                    {"name": "Martin Manderveld", "value": 1},
+                    {"name": "Robert", "value": 1},
+                    {"name": "Guillian", "value": 1},
+                    {"name": "Fabrice", "value": 1}
+            ]
+        },
+        {
+            "name" : "Equipe 1",
+            "children" : [
+                    {"name": "Martin Manderveld", "value": 1},
+                    {"name": "Robert", "value": 1},
+                    {"name": "Guillian", "value": 1},
+                    {"name": "Fabrice", "value": 1}
+            ]
+        },
+        {
+            "name" : "Equipe 1",
+            "children" : [
+                    {"name": "Martin Manderveld", "value": 1},
+                    {"name": "Robert", "value": 1},
+                    {"name": "Guillian", "value": 1},
+                    {"name": "Fabrice", "value": 1}
+            ]
+        }
+    ]
+}
