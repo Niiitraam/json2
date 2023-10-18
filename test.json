@@ -1,23 +1,231 @@
 {
-  "name" : "Equipe 1",
+  "name": "Les Equipes",
   "children": [
-                {"name": "Wade Warren", "value": "Business manager"},
-                {"name": "André Dupont", "value": "Nom du nouveau rôle"},
-                {"name": "Martin Manderveld", "value": "Big boss"},
-                {"name": "Fabrice",
-                "children": [
-                    {"name": "Wade Warren", "value": "Business manager"},
-                    {"name": "André Dupont", "value": "Nom du nouveau rôle"},
-                    {"name": "Martin Manderveld", "value": "Big boss"},
-                    {"name": "Fabrice",
-                    "children": [
-                        {"name": "Wade Warren", "value": "Business manager"},
-                        {"name": "André Dupont", "value": "Nom du nouveau rôle"},
-                        {"name": "Martin Manderveld", "value": "Big boss"},
-                        {"name": "Fabrice", "value": "Event manager"}
-                    ]
+      {
+          "name" : "Equipe 1",
+          "children" : [
+                  {"name": "Martin Manderveld", "value": 1},
+                  {"name": "Robert", "value": 1},
+                  {"name": "Guillian", "value": 1},
+                  {"name": "Fabrice", "value": 1}
+          ]
+      },
+      {
+          "name" : "Equipe 2",
+          "children" : [
+                  {"name": "Martin Manderveld", "value": 1},
+                  {"name": "Robert", "value": 1},
+                  {"name": "Guillian", "value": 1},
+                  {"name": "Fabrice", "value": 1}
+          ]
+      },
+      {
+          "name" : "Equipe 3",
+          "children" : [
+                  {"name": "Martin Manderveld", "value": 1},
+                  {"name": "Robert", "value": 1},
+                  {"name": "Guillian", "value": 1},
+                  {"name": "Fabrice", "value": 1}
+          ]
+      },
+      {
+          "name" : "Equipe 4",
+          "children" : [
+                  {"name": "Martin Manderveld", "value": 1},
+                  {"name": "Robert", "value": 1},
+                  {"name": "Guillian", "value": 1},
+                  {"name": "Fabrice", "value": 1}
+          ]
+      },
+      {
+          "name" : "Equipe 5",
+          "children" : [
+                  {"name": "Martin Manderveld", "value": 1},
+                  {"name": "Robert", "value": 1},
+                  {"name": "Guillian", "value": 1},
+                  {
+                      "name": "Equipe Fabrice",
+                      "children": [
+                          {"name": "Martin Manderveld", "value": 1},
+                          {"name": "Robert", "value": 1},
+                          {"name": "Guillian", "value": 1}
+                      ]
                   }
-                ]
-              }
-            ]
+          ]
+      },
+      {
+          "name" : "Equipe 6",
+          "children" : [
+                  {"name": "Martin Manderveld", "value": 1},
+                  {"name": "Robert", "value": 1},
+                  {"name": "Guillian", "value": 1},
+                  {
+                      "name": "Equipe test",
+                      "children": [
+                          {
+                              "name" : "Equipe 1",
+                              "children" : [
+                                      {"name": "Martin Manderveld", "value": 1},
+                                      {"name": "Robert", "value": 1},
+                                      {"name": "Guillian", "value": 1},
+                                      {"name": "Fabrice", "value": 1}
+                              ]
+                          },
+                          {
+                              "name" : "Equipe 2",
+                              "children" : [
+                                      {"name": "Martin Manderveld", "value": 1},
+                                      {"name": "Robert", "value": 1},
+                                      {"name": "Guillian", "value": 1},
+                                      {"name": "Fabrice", "value": 1}
+                              ]
+                          },
+                          {
+                              "name" : "Equipe 3",
+                              "children" : [
+                                      {"name": "Martin Manderveld", "value": 1},
+                                      {"name": "Robert", "value": 1},
+                                      {"name": "Guillian", "value": 1},
+                                      {"name": "Fabrice", "value": 1}
+                              ]
+                          },
+                          {
+                              "name" : "Equipe 4",
+                              "children" : [
+                                      {"name": "Martin Manderveld", "value": 1},
+                                      {"name": "Robert", "value": 1},
+                                      {"name": "Guillian", "value": 1},
+                                      {"name": "Fabrice", "value": 1}
+                              ]
+                          },
+                          {
+                              "name" : "Equipe 5",
+                              "children" : [
+                                      {"name": "Martin Manderveld", "value": 1},
+                                      {"name": "Robert", "value": 1},
+                                      {"name": "Guillian", "value": 1},
+                                      {
+                                          "name": "Equipe Fabrice",
+                                          "children": [
+                                              {"name": "Martin Manderveld", "value": 1},
+                                              {"name": "Robert", "value": 1},
+                                              {"name": "Guillian", "value": 1}
+                                          ]
+                                      }
+                              ]
+                          },
+                          {
+                              "name" : "Equipe 6",
+                              "children" : [
+                                      {"name": "Martin Manderveld", "value": 1},
+                                      {"name": "Robert", "value": 1},
+                                      {"name": "Guillian", "value": 1},
+                                      {"name": "Fabrice", "value": 1}
+                              ]
+                          },
+                          {
+                              "name" : "Equipe 7",
+                              "children" : [
+                                      {"name": "Martin Manderveld", "value": 1},
+                                      {"name": "Robert", "value": 1},
+                                      {"name": "Guillian", "value": 1},
+                                      {"name": "Fabrice", "value": 1}
+                              ]
+                          },
+                          {
+                              "name" : "Equipe 5",
+                              "children" : [
+                                      {"name": "Martin Manderveld", "value": 1},
+                                      {"name": "Robert", "value": 1},
+                                      {"name": "Guillian", "value": 1},
+                                      {
+                                          "name": "Equipe Fabrice",
+                                          "children": [
+                                              {"name": "Martin Manderveld", "value": 1},
+                                              {"name": "Robert", "value": 1},
+                                              {
+                                                  "name" : "Equipe Guillian",
+                                                  "children": [
+                                                      {"name": "Guillian", "value": 1},
+                                                      {"name": "Vanessa", "value": 1},
+                                                      {"name": "Guinluca", "value": 1}
+                                                  ]
+                                              }
+                                          ]
+                                      }
+                              ]
+                          },
+                          {
+                              "name" : "Equipe 8",
+                              "children" : [
+                                      {"name": "Martin Manderveld", "value": 1},
+                                      {"name": "Robert", "value": 1},
+                                      {"name": "Guillian", "value": 1},
+                                      {"name": "Fabrice", "value": 1}
+                              ]
+                          },
+                          {
+                              "name" : "Equipe 9",
+                              "children" : [
+                                      {"name": "Martin Manderveld", "value": 1},
+                                      {"name": "Robert", "value": 1},
+                                      {"name": "Guillian", "value": 1},
+                                      {"name": "Fabrice", "value": 1}
+                              ]
+                          }
+                      ]
+                  }
+          ]
+      },
+      {
+          "name" : "Equipe 7",
+          "children" : [
+                  {"name": "Martin Manderveld", "value": 1},
+                  {"name": "Robert", "value": 1},
+                  {"name": "Guillian", "value": 1},
+                  {"name": "Fabrice", "value": 1}
+          ]
+      },
+      {
+          "name" : "Equipe 5",
+          "children" : [
+                  {"name": "Martin Manderveld", "value": 1},
+                  {"name": "Robert", "value": 1},
+                  {"name": "Guillian", "value": 1},
+                  {
+                      "name": "Equipe Fabrice",
+                      "children": [
+                          {"name": "Martin Manderveld", "value": 1},
+                          {"name": "Robert", "value": 1},
+                          {
+                              "name" : "Equipe Guillian",
+                              "children": [
+                                  {"name": "Guillian"},
+                                  {"name": "Vanessa"},
+                                  {"name": "Guinluca"}
+                              ]
+                          }
+                      ]
+                  }
+          ]
+      },
+      {
+          "name" : "Equipe 8",
+          "children" : [
+                  {"name": "Martin Manderveld", "value": 1},
+                  {"name": "Robert", "value": 1},
+                  {"name": "Guillian", "value": 1},
+                  {"name": "Fabrice", "value": 1}
+          ]
+      },
+      {
+          "name" : "Equipe 9",
+          "children" : [
+                  {"name": "Martin Manderveld", "value": 1},
+                  {"name": "Robert", "value": 1},
+                  {"name": "Guillian", "value": 1},
+                  {"name": "Fabrice", "value": 1}
+          ]
+      }
+  ]
 }
