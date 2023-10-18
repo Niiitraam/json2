@@ -1,22 +1,23 @@
 {
-  "name": "CEO",
-  "image": "ceo.jpg",
-  "position": "Chief Executive Officer",
+  "name" : "Equipe 1",
   "children": [
-    {
-      "name": "Manager 1",
-      "image": "manager1.jpg",
-      "position": "Manager"
-    },
-    {
-      "name": "Manager 2",
-      "image": "manager2.jpg",
-      "position": "Manager"
-    },
-    {
-      "name": "Manager 3",
-      "image": "manager3.jpg",
-      "position": "Manager"
-    }
-  ]
+                {"name": "Wade Warren", "value": "Business manager"},
+                {"name": "André Dupont", "value": "Nom du nouveau rôle"},
+                {"name": "Martin Manderveld", "value": "Big boss"},
+                {"name": "Fabrice",
+                "children": [
+                    {"name": "Wade Warren", "value": "Business manager"},
+                    {"name": "André Dupont", "value": "Nom du nouveau rôle"},
+                    {"name": "Martin Manderveld", "value": "Big boss"},
+                    {"name": "Fabrice",
+                    "children": [
+                        {"name": "Wade Warren", "value": "Business manager"},
+                        {"name": "André Dupont", "value": "Nom du nouveau rôle"},
+                        {"name": "Martin Manderveld", "value": "Big boss"},
+                        {"name": "Fabrice", "value": "Event manager"}
+                    ]
+                  }
+                ]
+              }
+            ]
 }
