@@ -1,0 +1,41 @@
+{
+    "name": "Les projet",
+    "children": [
+        {
+            "name": "Equipes 1",
+            "children": [
+                {"name":"Projet 1"},
+                {"name":"Projet 2"},
+                {"name":"Projet 3"},
+                {"name":"Projet 4"}
+            ]
+        },
+        {
+            "name": "Equipes 1",
+            "children": [
+                {"name":"Projet 1"},
+                {"name":"Projet 2"},
+                {"name":"Projet 3"},
+                {"name":"Projet 4"}
+            ]
+        },
+        {
+            "name": "Equipes 1",
+            "children": [
+                {"name":"Projet 1"},
+                {"name":"Projet 2"},
+                {"name":"Projet 3"},
+                {"name":"Projet 4"}
+            ]
+        },
+        {
+            "name": "Equipes 1",
+            "children": [
+                {"name":"Projet 1"},
+                {"name":"Projet 2"},
+                {"name":"Projet 3"},
+                {"name":"Projet 4"}
+            ]
+        }
+    ]
+}
