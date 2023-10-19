@@ -4,37 +4,37 @@
         {
             "name": "Equipes 1",
             "children": [
-                {"name":"Projet 1"},
-                {"name":"Projet 2"},
-                {"name":"Projet 3"},
-                {"name":"Projet 4"}
+                {"name":"Projet 1", "value": 1},
+                {"name":"Projet 2", "value": 1},
+                {"name":"Projet 3", "value": 1},
+                {"name":"Projet 4", "value": 1}
             ]
         },
         {
-            "name": "Equipes 1",
+            "name": "Equipes 2",
             "children": [
-                {"name":"Projet 1"},
-                {"name":"Projet 2"},
-                {"name":"Projet 3"},
-                {"name":"Projet 4"}
+                {"name":"Projet 1", "value": 1},
+                {"name":"Projet 2", "value": 1},
+                {"name":"Projet 3", "value": 1},
+                {"name":"Projet 4", "value": 1}
             ]
         },
         {
-            "name": "Equipes 1",
+            "name": "Equipes 3",
             "children": [
-                {"name":"Projet 1"},
-                {"name":"Projet 2"},
-                {"name":"Projet 3"},
-                {"name":"Projet 4"}
+                {"name":"Projet 1", "value": 1},
+                {"name":"Projet 2", "value": 1},
+                {"name":"Projet 3", "value": 1},
+                {"name":"Projet 4", "value": 1}
             ]
         },
         {
-            "name": "Equipes 1",
+            "name": "Equipes 4",
             "children": [
-                {"name":"Projet 1"},
-                {"name":"Projet 2"},
-                {"name":"Projet 3"},
-                {"name":"Projet 4"}
+                {"name":"Projet 1", "value": 1},
+                {"name":"Projet 2", "value": 1},
+                {"name":"Projet 3", "value": 1},
+                {"name":"Projet 4", "value": 1}
             ]
         }
     ]
